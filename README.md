@@ -6,4 +6,4 @@
 
 A small project that can be used to create a random password for the user. 
 
-![Image](./assets/images/screencap.png?raw=true "Screenshot")
+![Image](./assets/image/screencap.png?raw=true "Screenshot")
